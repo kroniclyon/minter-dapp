@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "BigEyes.xyz";
 const description = "This is a cool eyes collections";
-const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
+const baseUri = "ipfs://bafybeihg36pgnx2ujmxmr62ggbg7mrjlp6edybbzgmz5njfda7xu46wyae/"; // This will be replaced automatically
 
 const layerConfigurations = [
   {
