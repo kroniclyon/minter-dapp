@@ -276,7 +276,7 @@ section {
 .input-number,
 .input-number-decrement,
 .input-number-increment {
-  user-select: none;
+ user-select: none;
 }
 
 .total-price-container {
